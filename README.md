@@ -11,6 +11,11 @@ UsTaxes is a free, open-source tax filing application that can be used to file t
 
 **Interested in contributing? [Get Started](#user-content-get-started)**
 
+## User Guide
+Welcome to USTaxes, we're so glad you're here and considering using us to file the Federal 1040 form. This software is a free alternative to filing your taxes and requires no sharing of personal data. We made a video walkthrough highlighting how to get started with the core functionality of our app which can be seen [here][user-walkthrough].
+
+If you have any quesitons, please reach out to us on our [discord][discord-url].
+
 ## Supported Income data
 
 Most income and deduction information from the following forms are supported for tax years 2020 and 2021.
@@ -155,3 +160,4 @@ Please reach out to us on our [discord][discord-url] if you run into any problem
 [github-issues]: https://github.com/ustaxes/ustaxes/issues
 [tauri-setup]: https://tauri.studio/en/docs/getting-started/intro/#setting-up-your-environment
 [tauri-root]: https://tauri.studio
+[user-walkthrough]: https://google.com
