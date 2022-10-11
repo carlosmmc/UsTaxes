@@ -160,4 +160,4 @@ Please reach out to us on our [discord][discord-url] if you run into any problem
 [github-issues]: https://github.com/ustaxes/ustaxes/issues
 [tauri-setup]: https://tauri.studio/en/docs/getting-started/intro/#setting-up-your-environment
 [tauri-root]: https://tauri.studio
-[user-walkthrough]: https://google.com
+[user-walkthrough]: https://www.youtube.com/watch?v=-bylVID-XCs
